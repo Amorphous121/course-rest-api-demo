@@ -1,0 +1,26 @@
+Create a REST API Demo Using TypeScript, Express, Mongoose.
+
+Features: 
+  •	Login
+  •	Register
+  •	Password Forgot, Reset Password
+  •	Buy Course, Revoke course
+
+
+Mendatory 
+  * Passport Jwt Authentication
+  * Role based Authentication & Authorization
+  * Encrypted Password
+  * Clean code
+  * lesser use of any Type
+  * optimized Database
+
+API Functionalities
+  •	User Crud Operation 
+  •	Teacher Crud Operation
+  •	Course Crud Operation
+  •	Buy Course, Revoke purchased course within 5 day of purchase from buyer and admin side.
+
+Total API’s : 5 + 5 + 5 + 3 + forgot password and reset Password.
+
+GUIDE FOR MONGOOSE - https://medium.com/@agentwhs/complete-guide-for-typescript-for-mongoose-for-node-js-8cc0a7e470c1
